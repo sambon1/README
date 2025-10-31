@@ -1,5 +1,5 @@
 # README
-# 👋 Hey there, I'm Sheena Ambon  
+# 👋 Hey I'm Sheena 
 
 💻 **Front-End Developer** | 🎨 **UI/UX Designer** | 🚀 **Creative Builder**
 
