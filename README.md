@@ -37,7 +37,9 @@ I love blending **design and development** to bring ideas to life — from conce
 ---
 
 ## 📈 My GitHub Stats  
-![Sheena's GitHub Stats](https://github-readme-stats.vercel.app/api?sambon1=anuraghazra&show_icons=true&theme=transparent)
+![Sheena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sambon1&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sambon1&layout=compact&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sambon1&layout=compact&theme=tokyonight)
 
 ---
