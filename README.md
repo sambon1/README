@@ -38,8 +38,11 @@ I love blending **design and development** to bring ideas to life — from conce
 
 ## 📈 My GitHub Stats  
 ![Sheena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sambon1&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sambon1&layout=compact&theme=tokyonight)
+![](https://nirzak-streak-stats.vercel.app/?user=sambon1&theme=dark&hide_border=false)<br/>
 
 ---
 ## Quotes 
 > “Design is not just what it looks like and feels like. Design is how it works.” — *Steve Jobs*
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
